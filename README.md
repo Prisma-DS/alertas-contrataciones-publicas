@@ -57,4 +57,4 @@ Una versión para PC con tablero de gráficos, calendario de aperturas, buscador
 ## Autora
 
 **Jessica Torres**, consultora de datos. Power BI, SQL y Python.
-GitHub: [@jesitm](https://github.com/jesitm) · Contacto: _completar_
+GitHub: [@jesitm](https://github.com/jesitm) · Contacto:jnadeshda@gmail.com
